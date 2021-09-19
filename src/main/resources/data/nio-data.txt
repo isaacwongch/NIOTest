@@ -1,0 +1,1 @@
+Here is a basic example that uses a FileChannel to read some data into a Buffer.
